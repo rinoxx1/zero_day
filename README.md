@@ -1,11 +1,1 @@
-# Vagrant
-
-## Learning Objectives
-
--What is a virtual machine
--What is Vagrant
--Who wrote Vagrant
--What is Ubuntu
--What does â€œUbuntuâ€ mean
--How to use VMs with Vagrant
--What does the command uname do
+VimCrypt~03!š5ó]YjÖÇd+màŸ1CSé0’C†×·„JªIÒJ¯JÎ»ÿBèLW/•d=$WQœmØqEÛL<Ìkğ9ÎÍ:Nâ*¸ÊâÖêÄ4.¢\6Ü@­›ÎíçéI°4t#Ó…õa+Ë"2¸„Än…'%¥Æªt0ç¼¢—À¦A:wo%´G'V±·«†Fücu"(T}i¿ˆç….Û¢TÎóÜş6ÂõÍU2×ci;xÎùùşùA6Áàşˆİ°-Ôş‘Î[f!˜«]ı•Ré¯Y—9/ñ
